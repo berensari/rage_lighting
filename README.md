@@ -16,6 +16,7 @@ You can adapt this tactic to different interiors. If you are going to make a dar
 
 
 **CONTRAST**
+
 **Don't be afraid of contrast differences, this will help you achieve realism**
 
 ![image](https://github.com/berensari/rage_lighting/assets/129932367/121174c1-856c-4799-a275-f1e5fb265e3a)!
