@@ -4,5 +4,3 @@ Rage Lighting Doc
 eSEEELAAA
 
 
-
-https://prnt.sc/X5fIdOVCrJPp
